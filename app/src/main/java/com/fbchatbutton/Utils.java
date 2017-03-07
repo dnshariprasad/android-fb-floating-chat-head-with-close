@@ -1,4 +1,4 @@
-package henrychuang.tw.chatheadmsg;
+package com.fbchatbutton;
 
 
 import android.content.Context;
@@ -16,9 +16,5 @@ public class Utils {
 		}else{
 			return Settings.canDrawOverlays(context);
 		}
-
-
 	}
-
-
 }
